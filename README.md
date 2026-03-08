@@ -1,4 +1,9 @@
-# Oil-Agents
+# Oil Agents
+
+![image - 2026-03-08T235816 490](https://github.com/user-attachments/assets/dbe0d89e-8fa7-4de8-92a9-844a902e74ea)
+
+https://x.com/OilAgents
+
 
 Autonomous oil-market trading agent scaffold for the `$OilAgents` competition.
 
