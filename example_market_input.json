@@ -1,0 +1,52 @@
+[
+  {
+    "asset": "WTI",
+    "price": 80.22,
+    "volume": 2400000,
+    "open_interest": 1450000,
+    "change_1h": 0.006,
+    "volatility_24h": 0.019,
+    "macro_bias": 0.35,
+    "geo_risk": 0.42
+  },
+  {
+    "asset": "BRENT",
+    "price": 83.84,
+    "volume": 1900000,
+    "open_interest": 1280000,
+    "change_1h": -0.004,
+    "volatility_24h": 0.017,
+    "macro_bias": -0.1,
+    "geo_risk": 0.15
+  },
+  {
+    "asset": "USO",
+    "price": 76.11,
+    "volume": 1100000,
+    "open_interest": 830000,
+    "change_1h": 0.002,
+    "volatility_24h": 0.021,
+    "macro_bias": 0.12,
+    "geo_risk": 0.19
+  },
+  {
+    "asset": "BNO",
+    "price": 29.95,
+    "volume": 690000,
+    "open_interest": 390000,
+    "change_1h": -0.005,
+    "volatility_24h": 0.024,
+    "macro_bias": -0.22,
+    "geo_risk": 0.28
+  },
+  {
+    "asset": "OIL_TOKEN",
+    "price": 1.23,
+    "volume": 520000,
+    "open_interest": 180000,
+    "change_1h": 0.011,
+    "volatility_24h": 0.043,
+    "macro_bias": 0.4,
+    "geo_risk": 0.51
+  }
+]
